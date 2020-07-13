@@ -1,6 +1,6 @@
 # *Phytophthora* Genome Data
 
-Data from the genome sequencing projects of *Phytophthora chlamydospora*, *Phytophthora gonapodyides* and *Phytophthora pseudosyringae*.
+Data (assemblies, gene predictions and annotations) from the genome sequencing projects of *Phytophthora chlamydospora*, *Phytophthora gonapodyides* and *Phytophthora pseudosyringae*.
 
 Jamie McGowan <jamie.mcgowan@mu.ie>
 
